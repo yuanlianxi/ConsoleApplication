@@ -1,0 +1,4 @@
+C:\Users\yuan\documents\visual studio 2010\Projects\ConsoleApplication\ft\bin\Debug\ft.exe
+C:\Users\yuan\documents\visual studio 2010\Projects\ConsoleApplication\ft\bin\Debug\ft.pdb
+C:\Users\yuan\documents\visual studio 2010\Projects\ConsoleApplication\ft\obj\x86\Debug\ft.exe
+C:\Users\yuan\documents\visual studio 2010\Projects\ConsoleApplication\ft\obj\x86\Debug\ft.pdb
